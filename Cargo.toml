@@ -1,0 +1,10 @@
+[package]
+name = "csaf-schema"
+version = "0.1.0"
+edition = "2024"
+license = "Apache-2.0"
+repository = "https://github.com/csaf-rs/csaf-schema"
+keywords = ["csaf"]
+description = "This crate provides typified types derived from the CSAF JSON schema."
+
+[dependencies]

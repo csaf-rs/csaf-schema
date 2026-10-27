@@ -1,2 +1,3 @@
 # csaf-schema
-Rust types for the CSAF standard
+
+Rust types for the CSAF standard.
